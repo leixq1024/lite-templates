@@ -1,2 +1,29 @@
-# lite-templates
-轻量级、高效、易于集成的前端模板,帮助开发者快速启动项目
+# lite-templates-vue-ts
+
+## Project setup
+
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+
+```
+yarn build
+```
+
+### Lints and fixes files
+
+```
+yarn lint
+```
+
+### Customize configuration
+
+See [Configuration Reference](https://cli.vuejs.org/config/).
